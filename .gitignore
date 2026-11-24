@@ -1,0 +1,16 @@
+# 系统 / 编辑器
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# 原始素材不进库（3936×2624 机内 JPEG，合计 24.6 GB）
+# 入库的是 2048 长边版本，见 README「关于分辨率」
+_originals/
+_c2048/
+*.tar
+*.tar.gz
+*.zip
+*.7z
+*.rar
